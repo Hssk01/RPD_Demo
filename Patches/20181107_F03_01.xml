@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DECLARE>
+<PhysicalColumn name="PROMO_DISCOUNT" parentName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;D4 PROMOTIONS&quot;" parentId="3001:667" parentUid="c0000000-df9b-15dc-a0e0-0a0a0a0a0000" id="3003:809" uid="00000000-7897-16f8-ac27-c0a808640000" dataType="INT" specialType="none">
+<SourceColumn>
+<RefPhysicalColumn id="3003:807" uid="40000000-7894-16f8-ac27-c0a808640000" qualifiedName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;PROMOTIONS&quot;.&quot;PROMO_DISCOUNT&quot;"/>
+</SourceColumn>
+</PhysicalColumn>
+
+<PhysicalColumn name="PROMO_DISCOUNT" parentName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;PROMOTIONS&quot;" parentId="3001:653" parentUid="40000000-df99-15dc-a0e0-0a0a0a0a0000" id="3003:807" uid="40000000-7894-16f8-ac27-c0a808640000" dataType="INT" specialType="none">
+</PhysicalColumn>
+
+</DECLARE>
+</Repository>
